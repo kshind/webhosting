@@ -1,1 +1,1 @@
-location.href="www.naver.com";
+location.href="https://www.naver.com";
